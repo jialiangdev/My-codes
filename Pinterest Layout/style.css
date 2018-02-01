@@ -1,0 +1,29 @@
+*{
+	margin: 0px;   /*inner bound*/
+	padding:0px;   /*outer bound*/
+}
+
+#container{
+	position: relative;
+}
+
+.box{
+	padding: 5px;
+	float: left;  /*float to left*/
+}
+.box_img{
+	padding: 5px;
+	border: 1px solid #cccccc;
+	box-shadow: 0 0 5px #ccc;
+	border-radius: 5px; /*round corner*/
+}
+.box_img img{
+	width: 150px;
+	height: auto;
+}
+
+
+
+
+
+
